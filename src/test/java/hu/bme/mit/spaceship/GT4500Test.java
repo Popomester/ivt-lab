@@ -56,8 +56,4 @@ public class GT4500Test {
     verify(secondary, times(1)).fire(1); 
 
   }
-
- @Test 
- public void 
-
 }
